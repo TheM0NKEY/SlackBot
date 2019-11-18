@@ -1,0 +1,2 @@
+# SlackBot
+RHS Slackbot
